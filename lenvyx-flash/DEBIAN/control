@@ -1,0 +1,7 @@
+Package: lenvyx-flash
+Version: 1.0
+Priority: optional
+Architecture: all
+Essential: no
+Maintainer: Sudeep
+Description: Flash bundled for lenvyx
