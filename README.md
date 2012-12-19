@@ -19,6 +19,7 @@ From scripts
 
 Authors
 =====
-Sudeep Nayak
-Adrien Jarthon
-Darío Ruellan
+
+* Sudeep Nayak
+* Adrien Jarthon
+* Darío Ruellan
