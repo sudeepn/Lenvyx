@@ -16,3 +16,9 @@ From scripts
     > cd Lenvyx
     > ./build.sh
     > ./install.sh
+
+Authors
+=====
+Sudeep Nayak
+Adrien Jarthon
+Darío Ruellan
