@@ -1,9 +1,0 @@
-Package: switchable-graphics
-Version: 1.0
-Priority: optional
-Architecture: all
-Essential: no
-Depends: wget, gxmessage, libnotify-bin
-Maintainer: Sudeep [sudeep.nayak@gmail.com]
-Description: Provides scripts for switchable graphics
-    Switch to low power graphics at startup.

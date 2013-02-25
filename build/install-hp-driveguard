@@ -1,4 +1,0 @@
-sudo add-apt-repository ppa:olzhas/hp-drive-guard
-sudo apt-get update
-sudo apt-get install hp-drive-guard
-sudo add-apt-repository --remove ppa:olzhas/hp-drive-guard

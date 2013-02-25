@@ -1,3 +1,0 @@
-sudo bash ./granola-installer.bash
-sudo apt-get update
-sudo apt-get install granola-gui

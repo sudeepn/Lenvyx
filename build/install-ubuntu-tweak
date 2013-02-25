@@ -1,4 +1,0 @@
-sudo add-apt-repository ppa:ubuntu-tweak-testing/ppa
-sudo apt-get update
-sudo apt-get install ubuntu-tweak
-sudo add-apt-repository --remove ppa:ubuntu-tweak-testing/ppa

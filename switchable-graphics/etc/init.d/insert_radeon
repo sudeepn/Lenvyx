@@ -1,3 +1,0 @@
-modprobe -i radeon
-
-exit 0
