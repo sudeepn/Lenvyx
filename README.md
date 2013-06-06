@@ -29,6 +29,7 @@ HP Envy models on wich Lenvyx is known to be working well:
 * HP Envy 14-1110nr
 * HP Envy 14t-1000
 * HP Envy 15-3090la
+* HP Envy 17-3d-2000 CTO
 
 Authors
 =====
