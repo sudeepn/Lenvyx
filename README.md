@@ -7,10 +7,12 @@ The project is totaly usable, it's just limited to a few features. Any help is a
 Lenvyx
 ======
 
-Lenvyx is a set of scripts to tweak Ubuntu Linux for your HP Envy laptop.
+Lenvyx is a small script to tweak Ubuntu Linux for your HP Envy laptop.
 Find more one the [official website](http://www.lenvyx.com)
 
-Works best with *Ubuntu 12.04 LTS*
+Works best with *Ubuntu 14.04 LTS*
+
+For 12.04 version, there is a `12.04` git tag.
 
 How to install
 ==============
