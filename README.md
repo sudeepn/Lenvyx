@@ -8,7 +8,7 @@ Lenvyx
 ======
 
 Lenvyx is a small script to tweak Ubuntu Linux for your HP Envy laptop.
-Find more one the [official website](http://www.lenvyx.com)
+Find more one the [official website](http://lenvyx.herokuapp.com/)
 
 Works best with *Ubuntu 14.04 LTS*
 
@@ -33,9 +33,10 @@ HP Envy models on wich Lenvyx is known to be working well:
 * HP Envy 15-3090la
 * HP Envy 17-3d-2000 CTO
 
-Authors
+Contributors
 =====
 
 * Sudeep Nayak
 * Adrien Jarthon
 * Darío Ruellan
+* Sven Axelsson
