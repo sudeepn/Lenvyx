@@ -1,3 +1,10 @@
+# Install support for brightness keybord buttons
+xorg_dir="/etc/X11/xorg.conf.d/"
+if [[ ! -e $xorg_dir ]]; then
+    sudo mkdir $xorg_dir
+fi
+sudo cp 20-intel.conf $xorg_dir
+
 # Install switchable graphics init script
 echo "copying custom switchable graphics init file (turns off radeon card)"
 sudo cp switchable-graphics.conf /etc/init/
