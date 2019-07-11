@@ -1,4 +1,4 @@
-**The Lenvyx project has been abandonned by its creator – Sudeep Nayak – in 2012.
+**The Lenvyx project has been abandoned by its creator – Sudeep Nayak – in 2012.
 I (Adrien Jarthon) am still maintaining the website, twitter and scripts, but I do not have the skills nor time to improve lenvyx.
 The project is totaly usable, it's just limited to a few features. Any help is appreciated (test, advices, pull requests, ...)**
 
